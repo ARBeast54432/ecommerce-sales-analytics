@@ -27,7 +27,8 @@ An e-commerce company needed to understand why profits were lagging despite grow
 ## 📈 Dashboard Overview
 
 ### Page 1 — Executive Summary
-![Executive Summary](Dashboard/Customer Segment Analysis.JPG)
+<img width="1579" height="891" alt="E commerce sales analytics dashboard" src="https://github.com/user-attachments/assets/ca09475d-042b-4a87-a188-86a4b26f1b13" />
+
 
 **KPIs at a glance:**
 - Total Revenue: **$2.30M**
@@ -39,21 +40,22 @@ An e-commerce company needed to understand why profits were lagging despite grow
 ---
 
 ### Page 2 — Sales & Profit Trends Over Time
-![Sales Trends](Dashboard/Dashboard/Customer Segment Analysis.JPG)
+<img width="1571" height="885" alt="Sales and profit trends over time" src="https://github.com/user-attachments/assets/7dfd262f-83bc-4fa6-b7c0-cdb28eb0a240" />
+
 
 Q4 peaks are visible every year. July consistently shows profit dips across all years — worth investigating seasonal demand and staffing patterns.
 
 ---
 
 ### Page 3 — Top Products & Loss-Making Items
-![Product Performance](Dashboard/Top Products & Loss Making Items)
+<img width="1576" height="886" alt="Top Products   Loss Making Items" src="https://github.com/user-attachments/assets/5fb4604f-289d-4eea-b3a0-eee4a5ff7fc2" />
 
 **Canon imageCLASS** is the top revenue product at $62K. Loss-making products average **62.67% discount rates** — the primary driver of margin erosion.
 
 ---
 
 ### Page 4 — Customer Segment Analysis
-![Customer Segments](Dashboard/Customer Segment Analysis)
+<img width="1576" height="886" alt="Customer Segment Analysis" src="https://github.com/user-attachments/assets/e108baf7-210f-40b5-90d4-7f5047733087" />
 
 Consumer is the largest segment ($1.16M), Corporate is the most stable (lowest churn risk), and Home Office has the highest per-order value ($473).
 
